@@ -1,0 +1,44 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+.container{
+    background-color: black;
+    
+}
+img{
+    padding-left:180px ;
+}
+button{
+    position: absolute;
+    left: 1000px;
+    top: 20px;
+    padding: 7px;
+}
+table ,th,td{
+    border: 1px solid;
+    border-collapse: collapse;
+    color: white;
+}
+.container-main{
+    background-color: rgba(0, 0, 0, 0.808);
+    text-align: center;
+    padding-bottom: 50px;
+    padding-top: 15px;
+    color: white;
+}
+th,td{
+    padding: 8px;
+}
+table{
+    margin-left: 270px;
+    margin-top: 50px;
+}
+.footer{
+    background-color: black;
+    text-align: center;
+    color: white;
+    
+}
